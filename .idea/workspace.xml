@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7efd12b1-3d2c-4734-a11b-8e6ae1b1869c" name="Changes" comment="removed company mentions">
+      <change beforePath="$PROJECT_DIR$/cmd/redshift-tool/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/redshift-tool/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/app/servicelocator.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/app/servicelocator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/cmd/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cmd/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/cmd/copy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cmd/copy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/cmd/retentioner.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cmd/retentioner.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/cmd/unload.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cmd/unload.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/pkg/domain/copier.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/domain/copier.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/pkg/domain/retentioner.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/domain/retentioner.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/pkg/domain/unloader.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/domain/unloader.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.20.7" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2TmuqDxauhwji5YQwz0oJX16sQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build github.com/matteobovetti/redshift-tool/cmd/redshift-tool.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/matteo.bovetti/git/fun/redshift-tools",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/internal/pkg/domain" />
+      <recent name="$PROJECT_DIR$/internal/cmd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internal/config" />
+      <recent name="$PROJECT_DIR$/cmd/redshift-tool" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/matteobovetti/redshift-tool/cmd/redshift-tool">
+    <configuration name="go build github.com/matteobovetti/redshift-tool/cmd/redshift-tool" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="redshift-tools" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matteobovetti/redshift-tool/cmd/redshift-tool" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/redshift-tool/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build redshift-tools/cmd/redshift-tool" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="redshift-tools" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="redshift-tools/cmd/redshift-tool" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/redshift-tool/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCopyCommandBuild in github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="redshift-tools" />
+      <working_directory value="$PROJECT_DIR$/internal/pkg/domain" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestCopyCommandBuild\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUnloadCommandBuild in github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="redshift-tools" />
+      <working_directory value="$PROJECT_DIR$/internal/pkg/domain" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestUnloadCommandBuild\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="run" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="run unload" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/matteobovetti/redshift-tool/cmd/redshift-tool" />
+        <item itemvalue="Makefile Target.run" />
+        <item itemvalue="Go Test.TestUnloadCommandBuild in github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" />
+        <item itemvalue="Go Test.TestCopyCommandBuild in github.mpi-internal.com/SCM-Italy/redshift-tool/internal/pkg/domain" />
+        <item itemvalue="Go Build.go build redshift-tools/cmd/redshift-tool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.15989.157" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-GO-241.15989.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="project startup" />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="cmd" />
+    <MESSAGE value="domain" />
+    <MESSAGE value="conf" />
+    <MESSAGE value="service locator" />
+    <MESSAGE value="database" />
+    <MESSAGE value="logging infra" />
+    <MESSAGE value="removed unuseful comments" />
+    <MESSAGE value="removed company mentions" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed company mentions" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
