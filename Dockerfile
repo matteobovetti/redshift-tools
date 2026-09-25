@@ -3,7 +3,7 @@ FROM alpine:latest AS deps
 RUN apk --no-cache add ca-certificates
 
 # base go image
-FROM golang:1.20-alpine as builder
+FROM golang:1.27-alpine AS builder
 
 RUN mkdir /app
 
